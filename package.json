@@ -1,0 +1,14 @@
+{
+  "name": "texbot",
+  "version": "1.0.0",
+  "description": "Discord Latex Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Uy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
