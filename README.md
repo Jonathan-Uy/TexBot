@@ -1,0 +1,2 @@
+# TexBot
+Discord Latex Bot
